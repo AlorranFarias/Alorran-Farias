@@ -39,7 +39,9 @@ Atualmente estou **focado 100% em React.js**, buscando aprimorar minhas habilida
   <a href="https://instagram.com/seuinstagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+  <a href="www.linkedin.com/in/
+alorran-farias-009086362
+" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
