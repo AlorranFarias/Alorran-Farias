@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋<br>Meu Alorran Farias, Desenvolvedor Frontend e Estudante de Profissionalizante do Curso de Desenvolvimento de Sistemas</h2>
+<h2 align="left">Olá 👋<br>Meu nome Alorran Farias, Desenvolvedor Frontend e Estudante de Profissionalizante do Curso de Desenvolvimento de Sistemas</h2>
 
 ###
 
